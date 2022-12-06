@@ -1,6 +1,16 @@
 - 👋 Hi, I’m MAHDI MOHAQEQ
-- 👀 I’m 26 years old and I'm interested in Front End and Web development. I worked 5 years as an electronic engineer but currently, I'm more interested in web design.
-- 🌱 I’m currently learning the basics of Frond End development. HTML, CSS, BOOTSTRAP, SASS, jQuery, GULP.JS, and PUG. After this, I'll start learning JS and one of its frameworks (React I think :D)
+- 👀 I’m 28 years Front End ddeveloper.
+- ✅ The technologies I've learned so far in last two years:
+  - HTML, CSS, SASS
+  - BOOTSTRAP, TailwindCSS
+  - JavaScript, TypeScript
+  - React.js, Next.js, Vue.js
+  - Redux, Redux-toolkit, Zustand
+  - Material UI, AntDesign, Mantine
+  - Docker
+  - Cypress, Storybook, Jest
+  - Web3
+- 🌱 I'm planing to extend my knowledge in this area with learning ThreeJS, Jenkins and dive deeper in JS language
 
 - 📫 How to reach me
 Email: Mahdi.Mohaqeq.MM@gmail.com
