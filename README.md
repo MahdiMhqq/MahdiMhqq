@@ -2,7 +2,7 @@
 <h5 align="center">A Front-End Developer from IR-TEHRAN</h5>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e474s7e7z106vunbn16j5h935s4xkej523dcdp8nr1l&rid=giphy.gif" width="400"/>
 </div>
 
 
@@ -58,7 +58,7 @@
 
 <h4>👨🏻‍💻 GitHub Usage stats</h4>
 <div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mahdimhqq&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimhqq&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mahdimhqq&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimhqq&layout=compact&theme=radical" />
 </div>
 
