@@ -62,6 +62,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimhqq&layout=compact&theme=radical" />
 </div>
 
+-----
+<h1 align="center">📊 Waka Time code activity </h1>  
+<div align="center">
+  
 <!--START_SECTION:waka-->
 
 ```txt
@@ -73,3 +77,7 @@ SCSS         5 mins          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+</div>
+
+-----
