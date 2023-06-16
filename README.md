@@ -63,4 +63,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   23 hrs 18 mins  ███████████████████████▒░   93.07 %
+JavaScript   56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Vue.js       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+SCSS         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+```
+
 <!--END_SECTION:waka-->
