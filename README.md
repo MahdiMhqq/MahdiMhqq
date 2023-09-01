@@ -58,8 +58,8 @@
 
 <h4>👨🏻‍💻 GitHub Usage stats</h4>
 <div align="center">
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mahdimhqq&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdimhqq&layout=compact&theme=radical" />
+  <img height="170" align="left" src="https://github-readme-stats-two-alpha-98.vercel.app/api?username=mahdimhqq&show_icons=true&theme=radical" />
+  <img src="github-readme-stats-two-alpha-98.vercel.app/api/top-langs/?username=mahdimhqq&layout=compact&theme=radical" />
 </div>
 
 -----
