@@ -69,16 +69,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 06 October 2023
+From: 02 June 2023 - To: 07 October 2023
 
-Total Time: 285 hrs 33 mins
+Total Time: 288 hrs 1 min
 
-TypeScript                 222 hrs 8 mins  >>>>>>>>>>>>>>>>>>>------   77.79 %
-JavaScript                 25 hrs 2 mins   >>-----------------------   08.77 %
-SCSS                       13 hrs 3 mins   >------------------------   04.58 %
-JSON                       10 hrs 29 mins  >------------------------   03.68 %
-Markdown                   3 hrs 22 mins   -------------------------   01.18 %
-HTML                       1 hr 34 mins    -------------------------   00.55 %
+TypeScript                 224 hrs 22 mins >>>>>>>>>>>>>>>>>>>------   77.90 %
+JavaScript                 25 hrs 9 mins   >>-----------------------   08.74 %
+SCSS                       13 hrs 3 mins   >------------------------   04.54 %
+JSON                       10 hrs 33 mins  >------------------------   03.66 %
+Markdown                   3 hrs 22 mins   -------------------------   01.17 %
+HTML                       1 hr 34 mins    -------------------------   00.54 %
 Vue.js                     1 hr 19 mins    -------------------------   00.46 %
 YAML                       1 hr 12 mins    -------------------------   00.42 %
 CSS                        1 hr 11 mins    -------------------------   00.41 %
