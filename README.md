@@ -72,18 +72,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 01 July 2024
+From: 02 June 2023 - To: 02 July 2024
 
-Total Time: 797 hrs 5 mins
+Total Time: 801 hrs 42 mins
 
-TypeScript                 650 hrs 45 mins >>>>>>>>>>>>>>>>>>>>-----   81.64 %
-JavaScript                 40 hrs 55 mins  >------------------------   05.13 %
-JSON                       33 hrs 21 mins  >------------------------   04.18 %
-SCSS                       18 hrs 25 mins  >------------------------   02.31 %
-Markdown                   10 hrs 48 mins  -------------------------   01.36 %
-Other                      7 hrs 15 mins   -------------------------   00.91 %
+TypeScript                 655 hrs 21 mins >>>>>>>>>>>>>>>>>>>>-----   81.75 %
+JavaScript                 40 hrs 55 mins  >------------------------   05.10 %
+JSON                       33 hrs 21 mins  >------------------------   04.16 %
+SCSS                       18 hrs 25 mins  >------------------------   02.30 %
+Markdown                   10 hrs 48 mins  -------------------------   01.35 %
+Other                      7 hrs 15 mins   -------------------------   00.90 %
 Bash                       5 hrs 50 mins   -------------------------   00.73 %
-YAML                       5 hrs 37 mins   -------------------------   00.71 %
+YAML                       5 hrs 37 mins   -------------------------   00.70 %
 Docker                     4 hrs 57 mins   -------------------------   00.62 %
 HTML                       4 hrs 57 mins   -------------------------   00.62 %
 ```
