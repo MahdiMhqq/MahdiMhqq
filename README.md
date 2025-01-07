@@ -72,11 +72,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 04 January 2025
+From: 02 June 2023 - To: 05 January 2025
 
-Total Time: 1,098 hrs 37 mins
+Total Time: 1,099 hrs 1 min
 
-TypeScript                 876 hrs 54 mins >>>>>>>>>>>>>>>>>>>>-----   79.82 %
+TypeScript                 877 hrs 18 mins >>>>>>>>>>>>>>>>>>>>-----   79.83 %
 JavaScript                 57 hrs 30 mins  >------------------------   05.23 %
 JSON                       47 hrs 39 mins  >------------------------   04.34 %
 YAML                       21 hrs 26 mins  -------------------------   01.95 %
