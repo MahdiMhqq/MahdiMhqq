@@ -6,17 +6,18 @@
 </div>
 
 
-- 👀 I’m 30 years Front End developer.
-- ✅ The technologies I've learned so far in last two years:
+- 👀 I’m 31 years Front End developer with over 5 years of experience:
+- ✅ The technologies I've learned so far:
   - HTML, CSS, SASS, JSS (emotion, styled)
   - BOOTSTRAP, TailwindCSS
   - JavaScript, TypeScript
-  - React.js, Next.js, Vue.js
-  - Redux, Redux-toolkit, Zustand, Tanstack-Query, JOTAI
+  - React.js, Next.js, Vue.js, Next.js
+  - Redux, Redux-toolkit, Zustand, Tanstack-Query, JOTAI, Tanstack-query
   - Material UI, AntDesign, Mantine, Radix, Shadcn
-  - Docker, Nginx, GitlabCI
+  - Docker, Nginx, GitlabCI, Sentry
   - Cypress, Storybook, Jest, Vitest
   - Webpack, Vite.js
+  - DDD, TDD
   - Turborepo
 
 <div id="skills" align="center">
